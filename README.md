@@ -1,0 +1,2 @@
+# Global-Energy-Trends-A-Comprehensive-Analysis-of-Key-Regions-and-Generation-Modes-using-Power-BI
+This project provides a detailed examination of global energy trends, highlighting the diverse energy generation landscapes across key regions. By leveraging Power BI's capabilities, it offers stakeholders a valuable tool to navigate the complexities of the energy sector and to strategize effectively for a sustainable future.
